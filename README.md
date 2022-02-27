@@ -1,6 +1,6 @@
  # 👋 Hi, I’m Shounak Chandra
 <br>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92947939/155017194-9ea7bfbd-eb1f-4c7d-867b-ea225b443488.gif?raw=true" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/O7b2PYn9gz1xgmmRjr/giphy360p.mp4?cid=ecf05e47sdhbuxgh5ib8le9ni8p4sz8bmp5kuioamycyjsg6&rid=giphy360p.mp4&ct=v&cc=es" />
 
 
 - 👀 I’m interested in IoT AI/ML...!
