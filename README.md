@@ -15,7 +15,7 @@
 
   I Am Just a High Functionin SocioPath...
   
-  Digitally Savvy, Motivated, and Hardworking College Student at SRMIST, Chennai. Proven efficiency with an ability to quickly learn and navigate any computer software program.     Committed to utilizing my skills to further the mission of a company.
+  Digitally Savvy, Motivated, and Hardworking College Student. Proven efficiency with an ability to quickly learn and navigate any computer software program.     Committed to utilizing my skills to further the mission of a company.
 
   
   *Respect the privacy of others.
