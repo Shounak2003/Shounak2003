@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **way2shounak@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/resume-shounak](http://bit.ly/resume-shounak)
+- 📄 My resume [http://bit.ly/resume-shounak](http://bit.ly/resume-shounak)
 
 - ⚡ Fun fact **Why did the programmer smile? No more bugs in sight!**
 
