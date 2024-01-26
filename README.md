@@ -1,6 +1,6 @@
  # 👋 Hi, I’m Shounak Chandra
 <br>
-<h2 align="center">A passionate developer</h2>
+<h2 align="left">A passionate developer</h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" />
 <p align="left"> <a href="https://twitter.com/_shounakchandra" target="blank"><img src="https://img.shields.io/twitter/follow/_shounakchandra?logo=twitter&style=for-the-badge" alt="_shounakchandra" /></a> </p>
 
