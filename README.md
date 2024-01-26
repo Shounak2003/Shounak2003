@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shounak</h1>
 <h3 align="center">A passionate developer</h3>
-![Linkedin Banner](https://github.com/Shounak2003/Shounak2003/assets/93007487/85d404d0-cb5c-409c-bb15-70ab4275dad1)
+
 
 <p align="left"> <a href="https://twitter.com/_shounakchandra" target="blank"><img src="https://img.shields.io/twitter/follow/_shounakchandra?logo=twitter&style=for-the-badge" alt="_shounakchandra" /></a> </p>
 
