@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Mern Stack Projects**
 
-- 🌱 I’m currently learning **Rust, App Development**
+- 🌱 I’m currently learning **App Development**
 
 - 👯 I’m looking to collaborate on **Blockchain, Mern Projects**
 
