@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain, Mern Projects**
 
-- 👨‍💻 All of my projects are available at [Shounak.tech](Shounak.tech)
+- 👨‍💻 All of my projects are available at [Shounak.tech](https://shounak.tech)
 
 - 💬 Ask me about **Mern, Blockchain, Game Dev**
 
